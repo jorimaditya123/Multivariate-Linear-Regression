@@ -26,7 +26,7 @@ Train the model using regr.fit(X, y) and display the model’s coefficients and 
 Predict CO2 value for a given weight and volume using regr.predict() and print the predicted result.
 
 ## Program:
-```
+```Python
 '''Developed by: Aditya Jorim F S
 RegisterNumber: 212225240004
 '''
@@ -46,11 +46,6 @@ print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 ```
 ## Output:
 <img width="1340" height="646" alt="Screenshot 2026-03-20 164612" src="https://github.com/user-attachments/assets/9b009221-4b07-45bd-946c-493a44a3fcbd" />
-
-
-### Insert your output
-
-<br>
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
